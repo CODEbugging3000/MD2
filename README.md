@@ -7,7 +7,7 @@ se na ideia de "verificação modular", utilizando os conceitos de congruência,
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/CODEbugging3000/MD2.git
+   git clone https://github.com/CODEbugging3000/MD2_P1.git
 2. Compile:
     ```bash
     gcc main.c -o executavel
