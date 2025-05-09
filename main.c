@@ -1,5 +1,6 @@
 #include <stdio.h>
-//Função para saber se os números são primos
+
+//Função para saber se os números são coprimos
 long long alg_euclides(long long G, long long n){
     long long resto = G % n;
     if (resto != 0){
